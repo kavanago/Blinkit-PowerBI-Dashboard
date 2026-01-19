@@ -1,2 +1,2 @@
-# Blinkit-PowerBI-Dashboard
-Interactive Power BI dashboard analyzing BlinkIT grocery sales using slicers, KPI cards, and DAX measures.
+## 🎥 BlinkIt Dashboard Demo Video
+https://drive.google.com/file/d/1DyUOIe-2CQol5bfmpLcbIUlw5QUFXMoH/view?usp=drive_link
